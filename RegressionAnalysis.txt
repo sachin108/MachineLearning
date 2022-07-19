@@ -7,8 +7,9 @@ relationship between  dependent and independent variables.
     Multivariable Regression
         one dependent and 1+ independent
 
-    dependent variable      --> Outcome (effect)
-    independent variables   --> cause
+    dependent variable      --> Outcome .. the variable we are predicting or measuring (effect)
+    independent variables aka predictor variables  --> these vars impact the dependent var i.e. outcome(cause)
+        independent vars should be independent of each other i.e. very little or no multicollinearity
 
 Regression analysis can be used for 3 things:
     1- Forecasting the effects or impact of specific changes
