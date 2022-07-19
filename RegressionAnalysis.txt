@@ -1,0 +1,20 @@
+Regression analysis is a type of predictive modelling technique which is used to find
+relationship between  dependent and independent variables.
+    
+    Linear Regression 
+        one independent and one dependent
+    
+    Multivariable Regression
+        one dependent and 1+ independent
+
+    dependent variable      --> Outcome (effect)
+    independent variables   --> cause
+
+Regression analysis can be used for 3 things:
+    1- Forecasting the effects or impact of specific changes
+    2- Forecasting the future trends
+    3- determining the strength of different predictors
+
+Regression analysis can be divided into 2 types:
+    1- Linear Regression
+    2- Logistic Regression
